@@ -1,0 +1,3 @@
+purchase_id,date,trader_id,supplier_name,supplier_phone,product_name,quantity_bought,unit_cost,total_purchase_cost
+PUR-0001,2026-01-02,TRD-0001,Arewa_Agro_Supplies,08031234567,Rice_50kg,20,79000,1580000
+PUR-0002,2026-01-02,TRD-0002,Kano_FMCG_Distributors,08039876543,Cooking_Oil_25L,15,39000,585000
