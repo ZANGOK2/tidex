@@ -1,0 +1,3 @@
+transaction_id,date,market,trader_id,product_name,category,quantity_sold,unit_price,total_sales,payment_method
+TXN-0001,2026-01-03,Singa,TRD-0001,Rice_50kg,Agro,3,85000,255000,Cash
+TXN-0002,2026-01-03,Sabon_Gari,TRD-0002,Cooking_Oil_25L,FMCG,2,42000,84000,Transfer

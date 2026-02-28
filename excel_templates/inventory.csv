@@ -1,0 +1,3 @@
+product_name,category,opening_stock,quantity_purchased,quantity_sold,current_stock,reorder_level,stock_status
+Rice_50kg,Agro,10,20,3,27,8,OK
+Cooking_Oil_25L,FMCG,5,15,2,18,6,OK

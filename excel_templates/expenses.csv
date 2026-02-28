@@ -1,0 +1,3 @@
+expense_id,date,trader_id,expense_category,amount,notes
+EXP-0001,2026-01-03,TRD-0001,Transport,5000,Trip_to_supplier
+EXP-0002,2026-01-03,TRD-0002,Staff,7000,Daily_wages
